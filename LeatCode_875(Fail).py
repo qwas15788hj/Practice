@@ -1,3 +1,4 @@
+import math
 class Solution(object):
     def minEatingSpeed(self, piles, h):
         count = h+1 # 몇번 나누어지는가
